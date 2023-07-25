@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world
+add
+=======
+>>>>>>> parent of 6542f82 (hello world)

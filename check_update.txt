@@ -1,3 +1,6 @@
 Vérifions si l'update fonctionne
 check diff me / online
 recheck if deletions
+chek if 1
+chekc if 2
+and check if 3
